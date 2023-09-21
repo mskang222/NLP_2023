@@ -24,3 +24,4 @@
 |# |Sessions |Keywords |
 |:-: |:-: |:-: |
 | 1|Code Cells 🏈|[variable,assign](https://github.com/mskang222/NLP_2023/blob/main/1_CodeCells_Basic.ipynb) |
+| 2|Five Types of Data 🏈|[number, string, list, tuple, dictonary](https://github.com/mskang222/NLP_2023/blob/main/2_FiveTypesofData.ipynb) |
