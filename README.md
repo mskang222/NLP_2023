@@ -28,3 +28,4 @@
 | 3|Indexing_Slicing 🍵|[:, forward, backward, link +, repeat *, length len()](https://github.com/mskang222/NLP_2023/blob/main/3_Indexing_Slicing.ipynb) |
 | 4-1|IfStatement 🍚|[if ~:](https://github.com/mskang222/NLP_2023/blob/main/4_1_IfStatement_ipynb%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb) |                          
 | 4-2|ForStatement 🍮|[for ~:](https://github.com/mskang222/NLP_2023/blob/main/4_2_ForStatement.ipynb) |
+| 4-3|tryExceptElse_Statement 🍩|[try~:](https://github.com/mskang222/NLP_2023/blob/main/4_3_tryExceptElse_Statement_ipynb%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb) |   
