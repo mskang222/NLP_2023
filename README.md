@@ -24,6 +24,7 @@
 |# |Sessions |Keywords |
 |:-: |:-: |:-: |
 | 1|Code Cells 🏈|[variable,assign](https://github.com/mskang222/NLP_2023/blob/main/1_CodeCells_Basic.ipynb) |
-| 2|Five Types of Data 🏈|[number, string, list, tuple, dictonary](https://github.com/mskang222/NLP_2023/blob/main/2_FiveTypesofData.ipynb) |
-| 4-1|IfStatement 🏈|[number, string, list, tuple, dictonary](https://github.com/mskang222/NLP_2023/blob/main/4_1_IfStatement_ipynb%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb) |                          
-| 4-2|ForStatement 🏈|[number, string, list, tuple, dictonary](https://github.com/mskang222/NLP_2023/blob/main/4_2_ForStatement.ipynb) |
+| 2|Five Types of Data 👖|[number, string, list, tuple, dictonary](https://github.com/mskang222/NLP_2023/blob/main/2_FiveTypesofData.ipynb) |
+| 3|Indexing_Slicing 🍵|[:, forward, backward, link +, repeat *, length len()](https://github.com/mskang222/NLP_2023/blob/main/3_Indexing_Slicing.ipynb) |
+| 4-1|IfStatement 🍚|[if ~:](https://github.com/mskang222/NLP_2023/blob/main/4_1_IfStatement_ipynb%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb) |                          
+| 4-2|ForStatement 🍮|[for ~:](https://github.com/mskang222/NLP_2023/blob/main/4_2_ForStatement.ipynb) |
